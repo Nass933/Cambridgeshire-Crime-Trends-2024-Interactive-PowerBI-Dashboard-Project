@@ -1,0 +1,2 @@
+# Cambridgeshire-Crime-Trends-2024-Interactive-PowerBI-Dashboard-Project
+This project analyses UK open policing data to understand patterns in recorded street-level crime, stop-and-search activity, and case outcomes over time and across locations. The dataset is sourced from the UK Police open data platform and covers monthly extracts over the period Jan 2023 to Nov 2025 (focusing our dashboard on 2024).
